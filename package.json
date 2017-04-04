@@ -1,9 +1,9 @@
 {
-  "name": "vscode-hasher",
-  "displayName": "Hasher",
-  "description": "Generate various hash (md5, sha1), HTML entity conversion and many more",
+  "name": "vscode-hasher-mod",
+  "displayName": "Hasher Mod",
+  "description": "Slightly changed Hasher for my own purpose",
   "version": "1.0.1",
-  "publisher": "deerawan",
+  "publisher": "aximov",
   "icon": "images/hasher.png",
   "galleryBanner": {
     "color": "#283593",
@@ -13,13 +13,13 @@
     "vscode": "^0.10.1"
   },
   "bugs": {
-    "url": "https://github.com/deerawan/vscode-hasher/issues",
-    "email": "deerawan@gmail.com"
+    "url": "https://github.com/aximov/vscode-hasher/issues",
+    "email": "aximov.aki@gmail.com"
   },
-  "homepage": "https://github.com/deerawan/vscode-hasher",
+  "homepage": "https://github.com/aximov/vscode-hasher",
   "repository": {
     "type": "git",
-    "url": "https://github.com/deerawan/vscode-hasher"
+    "url": "https://github.com/aximov/vscode-hasher"
   },
   "categories": [
     "Other"
